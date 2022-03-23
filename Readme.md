@@ -17,3 +17,9 @@ Dashboards criadas em exercícios com Power BI.
   Exercício do Curso Power BI Desktop: tratamento de dados no Power Query, da Alura. Usei dados relacionados aos consumos via e-commerce no Brasil, coletados do Kaggle e Olist, para identificar preferências de pagamento, categorias de produtos mais vendidos e o crescimento do consumo entre janeiro de 2017 e agosto de 2018.
   
 [Vizualização iterativa](https://app.powerbi.com/reportEmbed?reportId=270f63f2-f171-4b77-88dc-670bd064154e&autoAuth=true&ctid=67aa405f-06b1-4d86-a2d4-cba52ba2479c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
+
+:blue_book: Alura Relatório de Vendas
+
+  Exercício do Curso Power BI: entendendo as fórmulas DAX, da Alura. Usei dados de uma livraria fictícia para analisar as vendas de e-books e livros, comissão e rendimentos de funcionários, e rank de livros mais vendidos, ao longo de quatro anos.
+
+[Vizualização iterativa](https://app.powerbi.com/reportEmbed?reportId=1822e33b-90a9-4a5c-8927-edce96598060&autoAuth=true&ctid=67aa405f-06b1-4d86-a2d4-cba52ba2479c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
