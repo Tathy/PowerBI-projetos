@@ -23,3 +23,9 @@ Dashboards criadas em exercícios com Power BI.
   Exercício do Curso Power BI: entendendo as fórmulas DAX, da Alura. Usei dados de uma livraria fictícia para analisar as vendas de e-books e livros, comissão e rendimentos de funcionários, e rank de livros mais vendidos, ao longo de quatro anos.
 
 [Vizualização interativa](https://app.powerbi.com/reportEmbed?reportId=1822e33b-90a9-4a5c-8927-edce96598060&autoAuth=true&ctid=67aa405f-06b1-4d86-a2d4-cba52ba2479c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
+
+:busts_in_silhouette: Alura Recursos Humanos
+
+  Exercício do Curso Power BI: explorando recursos visuais, da Alura. Usei dados de um departamento de RH fictício com foco em números de turnovers, absenteísmo, funcionários ativos e desligados com suas razões de desligamento, para evidenciar os benefícios da mudança nas políticas da empresa e propor uma justificativa e solução para o baixo índice de contratação.
+
+[Vizualização interativa](https://app.powerbi.com/reportEmbed?reportId=2a43ca48-cf04-4425-bb57-08390d3877b0&autoAuth=true&ctid=67aa405f-06b1-4d86-a2d4-cba52ba2479c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
