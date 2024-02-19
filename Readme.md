@@ -4,6 +4,10 @@ Dashboards criadas em exercícios com Power BI.
 
   Exercício do Curso Dashboard com Power BI: visualizando dados, da Alura. São dados de uma livraria online fictícia, com análises sobre títulos, acessos ao site, assinaturas, quantidade e progresso de vendas com previsão, e perfil de usuários.
 
+:cat2: Gatitos Petshop
+
+  Exercício do Curso Power BI Desktop: construindo meu primeiro dashboard, da Alura. Usando dados de um petshop fictício analisando vendas por produto e faturamento relacionado a informações de clientes.
+  
 ***
 
 :paw_prints: Alura Pets
